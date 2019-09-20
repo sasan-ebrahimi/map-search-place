@@ -14,6 +14,7 @@ This is a sample application that contains a single page having a map and a auto
 
  -  Written in React Native 
  -  Working on Android / IOS both
+ -  Implemented debounce to prevent unnecessary api requests
  -  Uses following dependencies:
     - redux, redux-thunk, react-redux, redux-persist
     - axios
