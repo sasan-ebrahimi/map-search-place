@@ -15,12 +15,12 @@ This is a sample application that contains a single page having a map and a auto
  -  Written in React Native 
  -  Working on Android / IOS both
  -  Uses following dependencies:
-		 - redux, redux-thunk, react-redux, redux-persist
-		 - axios
-		 - lodash
-		 - prop-types
-		 - react-native-maps
-		 - some ui dependencies
+    - redux, redux-thunk, react-redux, redux-persist
+    - axios
+    - lodash
+    - prop-types
+    - react-native-maps
+    - some ui dependencies
 
 
 ## Screen Shots
