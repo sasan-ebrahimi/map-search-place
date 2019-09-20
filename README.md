@@ -28,6 +28,6 @@ This is a sample application that contains a single page having a map and a auto
 
 |Android| IOS |
 |--|--|
-| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android1.jpg)) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios1.jpg)) |
-| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android2.jpg)) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios2.jpg)) |
-| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android3.jpg)) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios3.jpg)) |
+| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android1.jpg) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios1.jpg) |
+| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android2.jpg) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios2.jpg) |
+| ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/android3.jpg) | ![enter image description here](http://s-ebrahimi.com/lib_images/map-search-place/ios3.jpg) |
